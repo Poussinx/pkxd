@@ -2,7 +2,7 @@
 "version": "test v1",
 	"iron": "badal li ltaht ila bghiti iron",
 	
-	"ironId": "",
+	"ironId": "176078d3d",
 	"ironBanner": "DefaultBanner",
 	"ironInter": "DefaultInterstitial",
 	"ironReward": "DefaultRewardedVideo",
